@@ -1,0 +1,140 @@
+[2026-04-19T22:04:02.157Z] Starting dev server with command: pnpm run dev
+[2026-04-19T22:04:03.100Z] 
+[2026-04-19T22:04:03.101Z] > void-navigation@1.0.0 dev /home/ubuntu/void-navigation
+[2026-04-19T22:04:03.101Z] > vite --host
+[2026-04-19T22:04:03.102Z] 
+[2026-04-19T22:04:03.793Z] 
+[2026-04-19T22:04:03.793Z] VITE v7.1.9  ready in 619 ms
+[2026-04-19T22:04:03.794Z] 
+[2026-04-19T22:04:03.794Z] ➜  Local:   http://localhost:3000/
+[2026-04-19T22:04:03.795Z] ➜  Network: http://169.254.0.21:3000/
+[2026-04-19T22:04:31.453Z] 6:04:31 PM [vite] (client) page reload index.html
+[2026-04-19T22:05:16.684Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-04-19T22:05:16.873Z] 6:05:16 PM [vite] (client) Pre-transform error: Missing opening {
+[2026-04-19T22:05:16.874Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-04-19T22:05:16.875Z] File: /home/ubuntu/void-navigation/client/src/index.css
+[2026-04-19T22:05:17.723Z] 6:05:17 PM [vite] Internal server error: Missing opening {
+[2026-04-19T22:05:17.724Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-04-19T22:05:17.724Z] File: /home/ubuntu/void-navigation/client/src/index.css
+[2026-04-19T22:05:17.725Z] at me (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:1:2426)
+[2026-04-19T22:05:17.725Z] at Ol (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1390)
+[2026-04-19T22:05:17.725Z] at Ka (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3439)
+[2026-04-19T22:05:17.726Z] at C.generate (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3577)
+[2026-04-19T22:05:17.726Z] at TransformPluginContext.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1957)
+[2026-04-19T22:05:17.726Z] at EnvironmentPluginContainer.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:51)
+[2026-04-19T22:05:17.726Z] at loadAndTransform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:48)
+[2026-04-19T22:05:17.727Z] at async viteTransformMiddleware (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-04-19T22:05:25.219Z] 6:05:25 PM [vite] Internal server error: Missing opening {
+[2026-04-19T22:05:25.220Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-04-19T22:05:25.220Z] File: /home/ubuntu/void-navigation/client/src/index.css
+[2026-04-19T22:05:25.220Z] at me (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:1:2426)
+[2026-04-19T22:05:25.221Z] at Ol (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1390)
+[2026-04-19T22:05:25.221Z] at Ka (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3439)
+[2026-04-19T22:05:25.221Z] at C.generate (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3577)
+[2026-04-19T22:05:25.221Z] at TransformPluginContext.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1957)
+[2026-04-19T22:05:25.222Z] at EnvironmentPluginContainer.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:51)
+[2026-04-19T22:05:25.222Z] at loadAndTransform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:48)
+[2026-04-19T22:05:25.222Z] at async viteTransformMiddleware (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-04-19T22:05:33.453Z] 6:05:33 PM [vite] (client) hmr update /src/pages/Home.tsx
+[2026-04-19T22:05:33.762Z] 6:05:33 PM [vite] (client) Pre-transform error: Missing opening {
+[2026-04-19T22:05:33.763Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-04-19T22:05:33.763Z] File: /home/ubuntu/void-navigation/client/src/index.css
+[2026-04-19T22:05:34.245Z] 6:05:34 PM [vite] Internal server error: Missing opening {
+[2026-04-19T22:05:34.246Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-04-19T22:05:34.247Z] File: /home/ubuntu/void-navigation/client/src/index.css
+[2026-04-19T22:05:34.247Z] at me (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:1:2426)
+[2026-04-19T22:05:34.247Z] at Ol (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1390)
+[2026-04-19T22:05:34.248Z] at Ka (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3439)
+[2026-04-19T22:05:34.248Z] at C.generate (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3577)
+[2026-04-19T22:05:34.248Z] at TransformPluginContext.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1957)
+[2026-04-19T22:05:34.249Z] at EnvironmentPluginContainer.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:51)
+[2026-04-19T22:05:34.249Z] at loadAndTransform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:48)
+[2026-04-19T22:05:34.249Z] at async viteTransformMiddleware (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-04-19T22:05:35.333Z] 6:05:35 PM [vite] Internal server error: Missing opening {
+[2026-04-19T22:05:35.333Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-04-19T22:05:35.334Z] File: /home/ubuntu/void-navigation/client/src/index.css
+[2026-04-19T22:05:35.334Z] at me (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:1:2426)
+[2026-04-19T22:05:35.335Z] at Ol (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1390)
+[2026-04-19T22:05:35.335Z] at Ka (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3439)
+[2026-04-19T22:05:35.335Z] at C.generate (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3577)
+[2026-04-19T22:05:35.336Z] at TransformPluginContext.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1957)
+[2026-04-19T22:05:35.336Z] at EnvironmentPluginContainer.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:51)
+[2026-04-19T22:05:35.336Z] at loadAndTransform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:48)
+[2026-04-19T22:05:35.336Z] at async viteTransformMiddleware (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-04-19T22:05:37.419Z] 6:05:37 PM [vite] Internal server error: Missing opening {
+[2026-04-19T22:05:37.420Z] Plugin: @tailwindcss/vite:generate:serve
+[2026-04-19T22:05:37.420Z] File: /home/ubuntu/void-navigation/client/src/index.css
+[2026-04-19T22:05:37.420Z] at me (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:1:2426)
+[2026-04-19T22:05:37.421Z] at Ol (file:///home/ubuntu/void-navigation/node_modules/.pnpm/tailwindcss@4.1.14/node_modules/tailwindcss/dist/chunk-MC3TVECV.mjs:37:1390)
+[2026-04-19T22:05:37.421Z] at Ka (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+node@4.1.14/node_modules/@tailwindcss/node/dist/index.mjs:10:3439)
+[2026-04-19T22:05:37.421Z] at C.generate (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:3577)
+[2026-04-19T22:05:37.422Z] at TransformPluginContext.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/@tailwindcss+vite@4.1.14_vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6_/node_modules/@tailwindcss/vite/dist/index.mjs:1:1957)
+[2026-04-19T22:05:37.422Z] at EnvironmentPluginContainer.transform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:31018:51)
+[2026-04-19T22:05:37.422Z] at loadAndTransform (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:26143:48)
+[2026-04-19T22:05:37.423Z] at async viteTransformMiddleware (file:///home/ubuntu/void-navigation/node_modules/.pnpm/vite@7.1.9_@types+node@24.7.0_jiti@2.6.1_lightningcss@1.30.1_tsx@4.20.6/node_modules/vite/dist/node/chunks/dep-Chhhsdoe.js:27221:20)
+[2026-04-19T22:06:05.739Z] Dev server process group stopped
+[2026-04-19T22:06:05.742Z] ELIFECYCLE  Command failed.
+[2026-04-19T22:06:05.791Z] Dev server exited with code -15
+[2026-04-19T22:06:08.792Z] Starting dev server with command: pnpm run dev
+[2026-04-19T22:06:09.683Z] 
+[2026-04-19T22:06:09.684Z] > void-navigation@1.0.0 dev /home/ubuntu/void-navigation
+[2026-04-19T22:06:09.685Z] > vite --host
+[2026-04-19T22:06:09.685Z] 
+[2026-04-19T22:06:10.163Z] 
+[2026-04-19T22:06:10.164Z] VITE v7.1.9  ready in 422 ms
+[2026-04-19T22:06:10.164Z] 
+[2026-04-19T22:06:10.165Z] ➜  Local:   http://localhost:3000/
+[2026-04-19T22:06:10.166Z] ➜  Network: http://169.254.0.21:3000/
+[2026-04-19T22:06:11.176Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-04-19T22:07:11.272Z] 6:07:11 PM [vite] changed tsconfig file detected: /home/ubuntu/void-navigation/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-04-19T22:07:11.278Z] 6:07:11 PM [vite] vite.config.ts changed, restarting server...
+[2026-04-19T22:07:11.279Z] 6:07:11 PM [vite] (client) page reload index.html
+[2026-04-19T22:07:11.279Z] 6:07:11 PM [vite] (client) page reload public/.gitkeep
+[2026-04-19T22:07:11.280Z] 6:07:11 PM [vite] (client) page reload public/__manus__/debug-collector.js
+[2026-04-19T22:07:11.280Z] 6:07:11 PM [vite] (client) page reload src/App.tsx
+[2026-04-19T22:07:11.280Z] 6:07:11 PM [vite] (client) page reload src/components/ErrorBoundary.tsx
+[2026-04-19T22:07:11.281Z] 6:07:11 PM [vite] (client) page reload src/components/ManusDialog.tsx
+[2026-04-19T22:07:11.281Z] 6:07:11 PM [vite] (client) page reload src/components/Map.tsx
+[2026-04-19T22:07:11.281Z] 6:07:11 PM [vite] (client) page reload src/components/ui/accordion.tsx
+[2026-04-19T22:07:11.282Z] 6:07:11 PM [vite] (client) page reload src/components/ui/alert-dialog.tsx
+[2026-04-19T22:07:11.282Z] 6:07:11 PM [vite] (client) page reload src/components/ui/alert.tsx
+[2026-04-19T22:07:11.282Z] 6:07:11 PM [vite] (client) page reload src/components/ui/aspect-ratio.tsx
+[2026-04-19T22:07:11.283Z] 6:07:11 PM [vite] (client) page reload src/components/ui/avatar.tsx
+[2026-04-19T22:07:11.283Z] 6:07:11 PM [vite] (client) page reload src/components/ui/badge.tsx
+[2026-04-19T22:07:11.284Z] 6:07:11 PM [vite] (client) page reload src/components/ui/breadcrumb.tsx
+[2026-04-19T22:07:11.284Z] 6:07:11 PM [vite] (client) page reload src/components/ui/button-group.tsx
+[2026-04-19T22:07:11.284Z] 6:07:11 PM [vite] (client) page reload src/components/ui/button.tsx
+[2026-04-19T22:07:11.285Z] 6:07:11 PM [vite] (client) page reload src/components/ui/calendar.tsx
+[2026-04-19T22:07:11.285Z] 6:07:11 PM [vite] (client) page reload src/components/ui/card.tsx
+[2026-04-19T22:07:11.286Z] 6:07:11 PM [vite] (client) page reload src/components/ui/carousel.tsx
+[2026-04-19T22:07:11.286Z] 6:07:11 PM [vite] (client) page reload src/components/ui/chart.tsx
+[2026-04-19T22:07:11.286Z] 6:07:11 PM [vite] (client) page reload src/components/ui/checkbox.tsx
+[2026-04-19T22:07:11.287Z] 6:07:11 PM [vite] (client) page reload src/components/ui/collapsible.tsx
+[2026-04-19T22:07:11.287Z] 6:07:11 PM [vite] (client) page reload src/components/ui/command.tsx
+[2026-04-19T22:07:11.287Z] 6:07:11 PM [vite] (client) page reload src/components/ui/context-menu.tsx
+[2026-04-19T22:07:11.288Z] 6:07:11 PM [vite] (client) page reload src/components/ui/dialog.tsx
+[2026-04-19T22:07:11.288Z] 6:07:11 PM [vite] (client) page reload src/components/ui/drawer.tsx
+[2026-04-19T22:07:11.289Z] 6:07:11 PM [vite] (client) page reload src/components/ui/dropdown-menu.tsx
+[2026-04-19T22:07:11.289Z] 6:07:11 PM [vite] (client) page reload src/components/ui/empty.tsx
+[2026-04-19T22:07:11.289Z] 6:07:11 PM [vite] (client) page reload src/components/ui/field.tsx
+[2026-04-19T22:07:11.290Z] 6:07:11 PM [vite] (client) page reload src/components/ui/form.tsx
+[2026-04-19T22:07:11.290Z] 6:07:11 PM [vite] (client) page reload src/components/ui/hover-card.tsx
+[2026-04-19T22:07:11.290Z] 6:07:11 PM [vite] (client) page reload src/components/ui/input-group.tsx
+[2026-04-19T22:07:11.291Z] 6:07:11 PM [vite] (client) page reload src/components/ui/input-otp.tsx
+[2026-04-19T22:07:11.291Z] 6:07:11 PM [vite] (client) page reload src/components/ui/input.tsx
+[2026-04-19T22:07:11.292Z] 6:07:11 PM [vite] (client) page reload src/components/ui/item.tsx
+[2026-04-19T22:07:11.292Z] 6:07:11 PM [vite] (client) page reload src/components/ui/kbd.tsx
+[2026-04-19T22:07:11.292Z] 6:07:11 PM [vite] (client) page reload src/components/ui/label.tsx
+[2026-04-19T22:07:11.293Z] 6:07:11 PM [vite] (client) page reload src/components/ui/menubar.tsx
+[2026-04-19T22:07:11.293Z] 6:07:11 PM [vite] (client) page reload src/components/ui/navigation-menu.tsx
+[2026-04-19T22:07:11.293Z] 6:07:11 PM [vite] (client) page reload src/components/ui/pagination.tsx
+[2026-04-19T22:07:11.294Z] 6:07:11 PM [vite] (client) page reload src/components/ui/popover.tsx
+[2026-04-19T22:07:11.294Z] 6:07:11 PM [vite] (client) page reload src/components/ui/progress.tsx
+[2026-04-19T22:07:11.295Z] 6:07:11 PM [vite] (client) page reload src/components/ui/radio-group.tsx
+[2026-04-19T22:07:11.295Z] 6:07:11 PM [vite] (client) page reload src/components/ui/resizable.tsx
+[2026-04-19T22:07:11.295Z] 6:07:11 PM [vite] (client) page reload src/components/ui/scroll-area.tsx
+[2026-04-19T22:07:11.296Z] 6:07:11 PM [vite] (client) page reload src/components/ui/select.tsx
+[2026-04-19T22:07:11.296Z] 6:07:11 PM [vite] (client) page reload src/components/ui/separator.tsx
+[2026-04-19T22:07:11.296Z] 6:07:11 PM [vite] (client) page reload src/components/ui/sheet.tsx
+[2026-04-19T22:07:11.297Z] 6:07:11 PM [vite] (client) page reload src/components/ui/sidebar.tsx
+[2026-04-19T22:07:11.297Z] 6:07:11 PM [vite] (client) page reload src/components/ui/skeleton.tsx
