@@ -43,74 +43,77 @@
 }
 
 :root {
-  --primary: var(--color-blue-700);
-  --primary-foreground: var(--color-blue-50);
-  --sidebar-primary: var(--color-blue-600);
-  --sidebar-primary-foreground: var(--color-blue-50);
-  --chart-1: var(--color-blue-300);
-  --chart-2: var(--color-blue-500);
-  --chart-3: var(--color-blue-600);
-  --chart-4: var(--color-blue-700);
-  --chart-5: var(--color-blue-800);
+  /* Cosmic Minimalism Color Palette */
+  --primary: #4a9eff;
+  --primary-foreground: #ffffff;
+  --sidebar-primary: #4a9eff;
+  --sidebar-primary-foreground: #ffffff;
+  --chart-1: #4a9eff;
+  --chart-2: #7c3aed;
+  --chart-3: #4a9eff;
+  --chart-4: #7c3aed;
+  --chart-5: #4a9eff;
   --radius: 0.65rem;
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.235 0.015 65);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.235 0.015 65);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.235 0.015 65);
-  --secondary: oklch(0.98 0.001 286.375);
-  --secondary-foreground: oklch(0.4 0.015 65);
-  --muted: oklch(0.967 0.001 286.375);
-  --muted-foreground: oklch(0.552 0.016 285.938);
-  --accent: oklch(0.967 0.001 286.375);
-  --accent-foreground: oklch(0.141 0.005 285.823);
-  --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(0.92 0.004 286.32);
-  --input: oklch(0.92 0.004 286.32);
-  --ring: oklch(0.623 0.214 259.815);
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.235 0.015 65);
-  --sidebar-accent: oklch(0.967 0.001 286.375);
-  --sidebar-accent-foreground: oklch(0.141 0.005 285.823);
-  --sidebar-border: oklch(0.92 0.004 286.32);
-  --sidebar-ring: oklch(0.623 0.214 259.815);
+  /* Dark Mode - Cosmic Theme */
+  --background: #0a0e27;
+  --foreground: #e8e8e8;
+  --card: #1a1f3a;
+  --card-foreground: #e8e8e8;
+  --popover: #1a1f3a;
+  --popover-foreground: #e8e8e8;
+  --secondary: #7c3aed;
+  --secondary-foreground: #ffffff;
+  --muted: #4a5568;
+  --muted-foreground: #cbd5e0;
+  --accent: #4a9eff;
+  --accent-foreground: #0a0e27;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --border: #2d3748;
+  --input: #2d3748;
+  --ring: #4a9eff;
+  --sidebar: #1a1f3a;
+  --sidebar-foreground: #e8e8e8;
+  --sidebar-accent: #4a9eff;
+  --sidebar-accent-foreground: #0a0e27;
+  --sidebar-border: #2d3748;
+  --sidebar-ring: #4a9eff;
 }
 
 .dark {
-  --primary: var(--color-blue-700);
-  --primary-foreground: var(--color-blue-50);
-  --sidebar-primary: var(--color-blue-500);
-  --sidebar-primary-foreground: var(--color-blue-50);
-  --background: oklch(0.141 0.005 285.823);
-  --foreground: oklch(0.85 0.005 65);
-  --card: oklch(0.21 0.006 285.885);
-  --card-foreground: oklch(0.85 0.005 65);
-  --popover: oklch(0.21 0.006 285.885);
-  --popover-foreground: oklch(0.85 0.005 65);
-  --secondary: oklch(0.24 0.006 286.033);
-  --secondary-foreground: oklch(0.7 0.005 65);
-  --muted: oklch(0.274 0.006 286.033);
-  --muted-foreground: oklch(0.705 0.015 286.067);
-  --accent: oklch(0.274 0.006 286.033);
-  --accent-foreground:  oklch(0.92 0.005 65);
-  --destructive: oklch(0.704 0.191 22.216);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.488 0.243 264.376);
-  --chart-1: var(--color-blue-300);
-  --chart-2: var(--color-blue-500);
-  --chart-3: var(--color-blue-600);
-  --chart-4: var(--color-blue-700);
-  --chart-5: var(--color-blue-800);
-  --sidebar: oklch(0.21 0.006 285.885);
-  --sidebar-foreground: oklch(0.85 0.005 65);
-  --sidebar-accent: oklch(0.274 0.006 286.033);
-  --sidebar-accent-foreground:  oklch(0.985 0 0);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.488 0.243 264.376);
+  /* Cosmic Minimalism - Dark Mode (default) */
+  --primary: #4a9eff;
+  --primary-foreground: #ffffff;
+  --sidebar-primary: #4a9eff;
+  --sidebar-primary-foreground: #ffffff;
+  --background: #0a0e27;
+  --foreground: #e8e8e8;
+  --card: #1a1f3a;
+  --card-foreground: #e8e8e8;
+  --popover: #1a1f3a;
+  --popover-foreground: #e8e8e8;
+  --secondary: #7c3aed;
+  --secondary-foreground: #ffffff;
+  --muted: #4a5568;
+  --muted-foreground: #cbd5e0;
+  --accent: #4a9eff;
+  --accent-foreground: #0a0e27;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --border: #2d3748;
+  --input: #2d3748;
+  --ring: #4a9eff;
+  --chart-1: #4a9eff;
+  --chart-2: #7c3aed;
+  --chart-3: #4a9eff;
+  --chart-4: #7c3aed;
+  --chart-5: #4a9eff;
+  --sidebar: #1a1f3a;
+  --sidebar-foreground: #e8e8e8;
+  --sidebar-accent: #4a9eff;
+  --sidebar-accent-foreground: #ffffff;
+  --sidebar-border: #2d3748;
+  --sidebar-ring: #4a9eff;
 }
 
 @layer base {
@@ -173,5 +176,97 @@
       padding-right: 2rem;
       max-width: 1280px; /* Standard content width */
     }
+  }
+
+  /* Cosmic Minimalism Custom Styles */
+  .cosmic-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+  }
+
+  .cosmic-subtitle {
+    font-family: 'Lora', serif;
+    font-weight: 600;
+    color: #e8e8e8;
+  }
+
+  .cosmic-body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #e8e8e8;
+    line-height: 1.6;
+  }
+
+  /* Gradient Background */
+  .cosmic-gradient {
+    background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 50%, #0a0e27 100%);
+  }
+
+  /* Glow Effect */
+  .cosmic-glow {
+    box-shadow: 0 0 20px rgba(74, 158, 255, 0.3);
+  }
+
+  /* Smooth Transitions */
+  .cosmic-transition {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  /* Button Styles */
+  .cosmic-button {
+    background: linear-gradient(135deg, #4a9eff 0%, #7c3aed 100%);
+    color: #ffffff;
+    padding: 12px 32px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .cosmic-button:hover {
+    box-shadow: 0 0 30px rgba(74, 158, 255, 0.5);
+    transform: translateY(-2px);
+  }
+
+  .cosmic-button:active {
+    transform: translateY(0);
+  }
+
+  /* Divider */
+  .cosmic-divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #4a5568, transparent);
+    margin: 3rem 0;
+  }
+
+  /* Link Styles */
+  a {
+    color: #4a9eff;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  a:hover {
+    color: #7c3aed;
+  }
+
+  /* Fade In Animation */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .fade-in-up {
+    animation: fadeInUp 0.6s ease-out;
   }
 }
