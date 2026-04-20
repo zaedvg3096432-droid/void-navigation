@@ -138,3 +138,28 @@
 [2026-04-19T22:07:11.296Z] 6:07:11 PM [vite] (client) page reload src/components/ui/sheet.tsx
 [2026-04-19T22:07:11.297Z] 6:07:11 PM [vite] (client) page reload src/components/ui/sidebar.tsx
 [2026-04-19T22:07:11.297Z] 6:07:11 PM [vite] (client) page reload src/components/ui/skeleton.tsx
+[2026-04-19T22:07:11.298Z] 6:07:11 PM [vite] (client) page reload src/components/ui/slider.tsx
+[2026-04-19T22:07:11.298Z] 6:07:11 PM [vite] (client) page reload src/components/ui/sonner.tsx
+[2026-04-19T22:07:11.298Z] 6:07:11 PM [vite] (client) page reload src/components/ui/spinner.tsx
+[2026-04-19T22:07:11.299Z] 6:07:11 PM [vite] (client) page reload src/components/ui/switch.tsx
+[2026-04-19T22:07:11.299Z] 6:07:11 PM [vite] (client) page reload src/components/ui/table.tsx
+[2026-04-19T22:07:11.299Z] 6:07:11 PM [vite] (client) page reload src/components/ui/tabs.tsx
+[2026-04-19T22:07:11.300Z] 6:07:11 PM [vite] (client) page reload src/components/ui/textarea.tsx
+[2026-04-19T22:07:11.300Z] 6:07:11 PM [vite] (client) page reload src/components/ui/toggle-group.tsx
+[2026-04-19T22:07:11.300Z] 6:07:11 PM [vite] (client) page reload src/components/ui/toggle.tsx
+[2026-04-19T22:07:11.301Z] 6:07:11 PM [vite] (client) page reload src/components/ui/tooltip.tsx
+[2026-04-19T22:07:11.301Z] 6:07:11 PM [vite] (client) page reload src/const.ts
+[2026-04-19T22:07:11.301Z] 6:07:11 PM [vite] (client) page reload src/contexts/ThemeContext.tsx
+[2026-04-19T22:07:11.301Z] 6:07:11 PM [vite] (client) page reload src/hooks/useComposition.ts
+[2026-04-19T22:07:11.302Z] 6:07:11 PM [vite] (client) page reload src/hooks/useMobile.tsx
+[2026-04-19T22:07:11.302Z] 6:07:11 PM [vite] (client) page reload src/hooks/usePersistFn.ts
+[2026-04-19T22:07:11.302Z] 6:07:11 PM [vite] (client) hmr update /src/index.css
+[2026-04-19T22:07:11.303Z] 6:07:11 PM [vite] (client) page reload src/lib/utils.ts
+[2026-04-19T22:07:11.303Z] 6:07:11 PM [vite] (client) page reload src/main.tsx
+[2026-04-19T22:07:11.303Z] 6:07:11 PM [vite] (client) page reload src/pages/Home.tsx
+[2026-04-19T22:07:11.303Z] 6:07:11 PM [vite] (client) page reload src/pages/NotFound.tsx
+[2026-04-19T22:07:11.305Z] 6:07:11 PM [vite] server restarted.
+[2026-04-19T22:07:11.305Z] 
+[2026-04-19T22:07:11.306Z] ➜  Local:   http://localhost:5173/
+[2026-04-19T22:07:11.306Z] ➜  Network: http://169.254.0.21:5173/
+[2026-04-20T13:19:24.086Z] 9:19:24 AM [vite] (client) page reload index.html
